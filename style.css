@@ -150,14 +150,13 @@ ul li span:hover {
     display: block;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 380px) {
     html {
         font-size: 60%;
     }
 
     input {
         padding: 5px 15px;
-        font-weight: 14px;
     }
 
     button {
