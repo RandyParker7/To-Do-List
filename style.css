@@ -149,3 +149,25 @@ ul li span:hover {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+@media (max-width: 350px) {
+    html {
+        font-size: 60%;
+    }
+
+    input {
+        padding: 5px 15px;
+        font-weight: 14px;
+    }
+
+    button {
+        padding: 11px 15px;
+        font-size: 11px;
+
+    }
+
+    .dropbtn {
+        padding: 11px;
+        font-size: 11px;
+    }
+}
