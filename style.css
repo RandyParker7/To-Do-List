@@ -124,6 +124,7 @@ ul li span:hover {
     font-size: 16px;
     border: none;
     cursor: pointer;
+    display: none;
 }
 
 .dropdown-content {
